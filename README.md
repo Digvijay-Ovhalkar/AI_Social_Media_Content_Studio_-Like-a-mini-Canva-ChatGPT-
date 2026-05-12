@@ -1,5 +1,5 @@
 🌟 Open AI Social Media Content Studio
-<div align="center"> <img width="100%" src="./public/hero-img.png" alt="Open AI Social Media Content Studio Hero Image" />
+<div align="center"> <img width="100%" <img width="100%" src="./public/new-hero.png" />alt="Open AI Social Media Content Studio Hero Image" />
 
 AI-powered content generator for LinkedIn, Reddit, and X (Twitter)
 
