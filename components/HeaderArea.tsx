@@ -82,7 +82,7 @@ export const HeaderArea = ({
       <div className="absolute left-6 top-6 transform -translate-y-1/2 z-10">
         <div className="flex items-center gap-2">
           <a
-            href="https://github.com/habeebmoosa/opencontentgenerator"
+            href="https://github.com/Digvijay-Ovhalkar/AI_Social_Media_Content_Studio_-Like-a-mini-Canva-ChatGPT-.git"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center bg-gray-100 dark:bg-gray-800 rounded-full px-3 py-1 shadow-sm gap-2 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
